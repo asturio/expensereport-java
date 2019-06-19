@@ -1,3 +1,5 @@
 .idea/workspace.xml
 target/
 User.mk
+.idea/
+*.iml
